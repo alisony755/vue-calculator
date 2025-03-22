@@ -1,1 +1,1 @@
-# chatapp
+# Simple Calculator
