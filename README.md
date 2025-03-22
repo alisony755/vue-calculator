@@ -2,7 +2,7 @@
 
 This project implements a simple calculator with a clean user interface, built with Vue.js.
 
-[url=https://ibb.co/0RN4pHY7][img]https://i.ibb.co/FLvZkR8r/Screenshot-2025-03-22-at-2-19-39-PM.png[/img][/url]
+![Calculator Screenshot](https://i.ibb.co/FLvZkR8r/Screenshot-2025-03-22-at-2-19-39-PM.png)
 
 ## Features
 
