@@ -11,10 +11,6 @@ This project implements a simple calculator with a clean user interface, built w
 - Responsive design that works on desktop and mobile devices
 - Decimal number support
 
-## Demo
-
-[Live Demo](https://reimagined-invention-pqpgrv4wq45c69xx-5173.app.github.dev/)
-
 ## Installation
 
 ### Prerequisites
