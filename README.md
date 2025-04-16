@@ -19,7 +19,7 @@ This project implements a simple calculator with a clean user interface, built w
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/vue-calculator.git
+git clone https://github.com/alisony755/vue-calculator.git
 cd vue-calculator
 ```
 
